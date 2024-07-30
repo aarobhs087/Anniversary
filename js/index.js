@@ -5,7 +5,7 @@
 
   var card = $('card'),
       openB = $('open'),
-      closeB = $('close'),
+      closeB = $('close'), 
       timer = null;
 
   openB.addEventListener('click', function () {
